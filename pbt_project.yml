@@ -1,0 +1,58 @@
+name: woodrow.schowalter
+description: motivating
+version: 0.06.635
+author: gupdcpi3.xcazsom0@eitk316e.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: woodrowschowalter
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:56:21'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:56:21'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:56:21.034891Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '520272082'
+  createdAt: '2025-12-05T22:56:21.034891Z'
+  type: plibMaven
+projectDependencies:
+  '173':
+    projectUID: 173
+    projectName: angeles.kohler
+    repositoryPath: gitUri=http://gitserver:3000/dev_9BQWIet0_team_254/dev_9BQWIet0_project_173.git&subPath=
+    version: angeles.kohler/1.9.7.784
+    isDefault: false
+    author: null
+    createdAt: '2025-12-05 22:56:19'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
